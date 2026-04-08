@@ -23,7 +23,7 @@ def get_headers(token):
             "Expect": "100-continue",
             "X-Unity-Version": "2018.4.11f1",
             "X-GA": "v1 1",
-            "ReleaseVersion": "OB53",
+            "ReleaseVersion": "OB52",
         }
 
 def encrypt_message(data):
